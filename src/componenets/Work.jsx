@@ -7,14 +7,15 @@ const data = [
     title: "Intern Frontend Developer",
     duration: "2month",
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac vehicula velit. Ut non ipsum vel sem laoreet aliquam. Morbi dignissim commodo diam quis interdum. Ut posuere sapien vitae convallis accumsan. Integer mauris mauris, maximus ullamcorper eros sed, tempor mattis erat.  ",
-  },
+   " I worked as a Frontend intern at Bnkle LTD, where I contributed to building and maintaining the frontend of a web application, ensuring functionality and visual consistency. I was asked to design a pricing page for a seamless user experience, optimized web components for better performance and responsiveness, and I integrated a referral video  using a React library to enhance user engagement..."
+      },
+
   {
     year: 2025,
     title: "Computer Science IT Programme",
     duration: "6Month",
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac vehicula velit. Ut non ipsum vel sem laoreet aliquam. Morbi dignissim commodo diam quis interdum. Ut posuere sapien vitae convallis accumsan. Integer mauris mauris, maximus ullamcorper eros sed, tempor mattis erat.  ",
+      " I am currently part of the Computer Science IT program at Polaris Bank, where I assist customers in resolving issues with their banking app and have gained knowledge of the internal system used to log and address customer complaints. "
   },
 ];
 const Work = () => {

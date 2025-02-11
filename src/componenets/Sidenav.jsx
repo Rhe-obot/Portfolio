@@ -4,6 +4,7 @@ import {
   AiOutlineMenu,
   AiOutlineProject,
   AiOutlineMail,
+  AiOutlineClose,
 } from "react-icons/ai";
 import { BsPerson } from "react-icons/bs";
 import { GrProjects } from "react-icons/gr";
@@ -15,10 +16,17 @@ const Sidebar = () => {
   };
   return (
     <div>
-      <AiOutlineMenu
-        onClick={handleNav}
-        className="absolute top-4 right-4 z-[99] md:hidden"
-      />
+    {nav ? (
+        <AiOutlineClose
+          onClick={handleNav}
+           className="absolute top-5 right-4 z-[99] md:hidden"
+        />
+      ) : (
+        <AiOutlineMenu
+          onClick={handleNav}
+          className="absolute top-5 right-4 z-[99] md:hidden"
+        />
+      )}
       {nav ? (
         <div className="fixed w-full h-screen bg-white/90 flex flex-col justify-center items-center z-20">
           <a onClick={handleNav}
