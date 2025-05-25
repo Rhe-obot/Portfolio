@@ -15,7 +15,7 @@ const data = [
     title: "Computer Science IT Programme",
     duration: "6Month",
     details:
-      " I am currently part of the Computer Science IT program at Polaris Bank, where I assist customers in resolving issues with their banking app and have gained knowledge of the internal system used to log and address customer complaints. "
+      " Supported networking tasks including structured cabling, patch panel configuration, and switch/router setup (Cisco). Provided remote desktop assistance, configured shared printers, diagnosed hardware issues, and gained exposure to enterprise IT infrastructure and basic software troubleshooting. Also assisted at the customer service desk, helping resolve client issues and improving service efficiency.  "
   },
 ];
 const Work = () => {
