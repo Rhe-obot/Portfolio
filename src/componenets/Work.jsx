@@ -12,10 +12,10 @@ const data = [
 
   {
     year: 2025,
-    title: "Computer Science IT Programme",
+    title: "IT Intern – Polaris Bank",
     duration: "6Month",
     details:
-      " Supported networking tasks including structured cabling, patch panel configuration, and switch/router setup (Cisco). Provided remote desktop assistance, configured shared printers, diagnosed hardware issues, and gained exposure to enterprise IT infrastructure and basic software troubleshooting. Also assisted at the customer service desk, helping resolve client issues and improving service efficiency.  "
+      "Supported networking tasks including structured cabling, patch panel configuration, and switch/router setup (Cisco). Provided remote desktop assistance, configured shared printers, diagnosed hardware issues, and gained exposure to enterprise IT infrastructure and basic software troubleshooting. Also assisted at the customer service desk, helping resolve client issues and improving service efficiency.  "
   },
 ];
 const Work = () => {
