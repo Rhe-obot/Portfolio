@@ -31,19 +31,23 @@ const Main = () => {
         <h2 className="flex sm:text-3xl text-2xl pt-4">
           I'm a
           <TypeAnimation
-            sequence={[
-              "Frontend Developer",
-              1000,
-              "Problem Solver",
-              1000,
-              "Tech Enthusiast",
-              1000,
-              "Coder",
-              1000,
-            ]}
+    sequence={[
+  "Frontend Developer",
+  1000,
+  "React & Tailwind Specialist",
+  1000,
+  "Interface Perfectionist",
+  1000,
+  "Creative Problem Solver",
+  1000,
+  "Tech Enthusiast",
+  1000,
+  "Lifelong Learner",
+  1000,
+]}
             wrapper="div"
             cursor={true}
-            speed={30}
+            speed={40}
             style={{
               fontSize: "1em",
               paddingLeft: "5px",
